@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Small Introduction<br><br>Hi, I’m Naman, an Electronics & Communication Engineering student and aspiring software engineer.<br>I enjoy building practical projects, learning modern technologies, and steadily improving my problem-solving skills.<br><br>👨‍💻 About Me<br>🔭 I’m currently working on<br><br>Data Structures & Algorithms (DSA)<br><br>MERN Stack development<br><br>Final-year engineering projects with real-world impact<br><br>🤝 I’m looking to collaborate on<br><br>Beginner to intermediate web development projects<br><br>Open-source projects related to JavaScript, React or MERN<br><br>College-level tech or hackathon projects<br><br>🆘 I’m looking for help with<br><br>Optimizing DSA problem-solving strategies<br><br>Understanding system design basics<br><br>Preparing effectively for technical placements<br><br>🌱 I’m currently learning<br><br>JavaScript (advanced concepts)<br><br>React & backend integration<br><br>Core DSA concepts step by step<br><br>💬 Ask me about<br><br>College projects (Arduino, IoT, Web)<br><br>Basics of DSA for beginners<br><br>How to balance academics with placement preparation<br><br>⚡ Fun fact<br><br>I believe 1% improvement every day beats sudden motivation.
+👋 Hi, I’m Naman<br><br>ECE student and aspiring software engineer. I enjoy building practical projects and learning modern technologies step by step.<br><br>👨‍💻 About Me<br><br>🔭 Working on DSA and MERN stack<br><br>🤝 Open to collaboration on web and college projects<br><br>🌱 Currently learning JavaScript, React and Back-end<br><br>💬 Ask me about basic DSA, projects, and placements<br><br>⚡ Fun fact: Consistency beats motivation
 
 
 ## 🌐 Socials:
@@ -12,11 +12,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=coder-nmn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nmn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=coder-nmn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=coder-nmn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=coder-nmn&icon=0&color=0)](https://visitcount.itsvg.in)
