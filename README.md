@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Naman<br><br>ECE student and aspiring software engineer. I enjoy building practical projects and learning modern technologies step by step.<br><br>👨‍💻 About Me<br><br>🔭 Working on DSA and MERN stack<br><br>🤝 Open to collaboration on web and college projects<br><br>🌱 Currently learning JavaScript, React and Back-end<br><br>💬 Ask me about basic DSA, projects, and placements<br><br>⚡ Fun fact: Consistency beats motivation
+👋 Hi, I’m Naman Gupta<br><br>ECE student and aspiring software engineer. I enjoy building practical projects and learning modern technologies step by step.<br><br>👨‍💻 About Me<br><br>🔭 Working on DSA and MERN stack<br><br>🤝 Open to collaboration on web and college projects<br><br>🌱 Currently learning JavaScript, React and Back-end<br><br>💬 Ask me about basic DSA, projects, and placements<br><br>⚡ Fun fact: Consistency beats motivation
 
 
 ## 🌐 Socials:
