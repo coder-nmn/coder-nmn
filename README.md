@@ -1,31 +1,163 @@
-\`\`\` ███╗ ██╗ █████╗ ███╗ ███╗ █████╗ ███╗ ██╗ ████╗ ██║██╔══██╗████╗ ████║██╔══██╗████╗ ██║ ██╔██╗ ██║███████║██╔████╔██║███████║██╔██╗ ██║ ██║╚██╗██║██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║ ██║ ╚████║██║ ██║██║ ╚═╝ ██║██║ ██║██║ ╚████║ ╚═╝ ╚═══╝╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═══╝ \`\`\` ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+Stack;DSA+Grinder+%7C+Building+from+Scratch;Open+Source+Contributor+%7C+GSSoC+%2725;Consistency+beats+motivation+%E2%9A%A1)  
-\[!\[LinkedIn\](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)\](https://linkedin.com/in/naman-dev23) \[!\[Gmail\](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)\](mailto:coder.nmn@gmail.com) \[!\[GitHub\](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)\](https://github.com/coder-nmn) \[!\[Profile Views\](https://komarev.com/ghpvc/?username=coder-nmn&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)\](https://github.com/coder-nmn)
+<h1 align="center">Hi 👋, I'm Naman Gupta</h1>
 
-\--- ![Coding](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif) ## \`$ whoami\` \`\`\`js const naman = { name : "Naman Gupta", role : "Full-Stack Developer (MERN)", location : "Delhi, India 🇮🇳", education : "ECE @ Galgotias College of Engineering & Technology", currentFocus: \["MERN Stack", "DSA (from scratch)", "Open Source"\], openTo : \["Web Dev Collabs", "Off-campus Placements", "College Projects"\], funFact : "Consistency beats motivation — every single time ⚡" }; \`\`\`  
-\--- ## \`$ ls ./skills\`
+<h3 align="center">
+Full Stack Developer • MERN Stack Developer • Open Source Contributor
+</h3>
 
-\### 🖥️ Languages !\[JavaScript\](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) !\[Java\](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) !\[Python\](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) !\[C\](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ### ⚡ Frontend !\[React\](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) !\[Next.js\](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) !\[TailwindCSS\](https://img.shields.io/badge/Tailwind\_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) !\[HTML5\](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) !\[CSS3\](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ### 🔧 Backend & Database !\[Node.js\](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) !\[Express.js\](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) !\[MongoDB\](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) !\[MySQL\](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ### 🛠️ Tools & DevOps !\[Git\](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) !\[GitHub\](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) !\[VS Code\](https://img.shields.io/badge/VS\_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) !\[Postman\](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) !\[Streamlit\](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<p align="center">
+Building scalable web applications, solving DSA problems, and exploring AI-powered solutions.
+</p>
 
-\--- ## \`$ cat ./projects.md\`
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Contributor;DSA+Learner;Building+Projects+Every+Day+🚀" />
+</p>
 
-| 🚀 Project | ⚙️ Stack | 📝 Description | 🔗 | |:-----------|:---------|:---------------|:--:| | \*\*🎭 Moodify\*\* | React · MediaPipe · FaceLandmarker | Real-time face expression detection using ML landmarks | \[→\](#) | | \*\*🎬 CineVerse\*\* | React · Node.js · TMDB API | Full-stack movie discovery platform | \[→\](#) | | \*\*🏢 CorpStay\*\* | Node · Express · MongoDB · Passport.js | Corporate housing booking platform | \[→\](#) | | \*\*🛡️ Cyberattack Detector\*\* | CNN-BiLSTM · Streamlit · CICIDS2017 | \*\*93.54% accuracy\*\* network intrusion detection | \[→\](#) | | \*\*🅿️ Smart Parking System\*\* | Arduino · IR Sensors · LCD | UNO-based embedded car parking solution | \[→\](#) | | \*\*📊 Finance Dashboard\*\* | React · Vite · Tailwind · Recharts · Zustand | Dark/light mode analytics dashboard | \[→\](#) |
+---
 
-\--- ## \`$ git log --stats\`
+## 🚀 About Me
 
-![](https://github-readme-stats.vercel.app/api?username=coder-nmn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nmn&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coder-nmn&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coder-nmn&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true)
+- 🎓 ECE Student at Galgotias College of Engineering & Technology
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently learning DSA & System Design
+- 🚀 Open Source Contributor (GSSoC'25)
+- 🤝 Open for Internships & Full-Time Opportunities
+- 🎯 Goal: Crack Product-Based Company Roles
 
-\--- ## \`$ grep -r "open\_source" ./activity\`
+---
 
-| 🏷️ Program | 📅 Year | 🎯 Role | |:----------|:--------|:--------| | 🌱 \*\*GSSoC\*\* | 2025 | Girl Script Summer of Code Contributor | | 🏆 \*\*OSCI\*\* | 2025 | Open Source Contribution Initiative Participant | | ☁️ \*\*Prompt Design in Vertex AI\*\* | 2025 | Google Cloud · Completed ✅ |
+## 🌐 Connect With Me
 
-\--- ## \`$ cat ./trophies.md\`
+<p align="left">
+<a href="https://linkedin.com/in/naman-dev23">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-\[!\[trophy\](https://github-profile-trophy.vercel.app/?username=coder-nmn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)\](https://github.com/ryo-ma/github-profile-trophy)
+<a href="mailto:coder.nmn@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-\---
+<a href="https://github.com/coder-nmn">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-\### \`$ echo $QUOTE\` > \*"The best time to start was yesterday. The second best time is now."\*  
-\*\*⚡ Currently:\*\* Building projects · Grinding DSA · Contributing to Open Source · Targeting 8–10 LPA placements  
-!\[Wave\](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom\_header.svg)
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Database
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎭 Moodify
+AI-powered facial expression detection using MediaPipe FaceLandmarker.
+
+**Tech Stack:** React, MediaPipe, Machine Learning
+
+---
+
+### 🎬 CineVerse
+Movie discovery platform with search, authentication and watchlists.
+
+**Tech Stack:** React, Node.js, MongoDB
+
+---
+
+### 🛡️ Cyberattack Detection System
+Deep Learning based intrusion detection system achieving **93.54% accuracy**.
+
+**Tech Stack:** CNN-BiLSTM, Streamlit, Python
+
+---
+
+### 🅿️ Smart Parking System
+Arduino-based smart parking solution with IR sensors and LCD display.
+
+**Tech Stack:** Arduino UNO, Embedded Systems
+
+---
+
+## 🏆 Achievements
+
+- 🌱 Contributor at GSSoC 2025
+- 🚀 Participant in Open Source Contribution Initiative
+- ☁️ Completed Prompt Design in Vertex AI
+- 💻 Built Multiple Full Stack Projects
+- 📚 Consistently Learning DSA
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=coder-nmn&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nmn&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-nmn&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-nmn&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/coder-nmn/coder-nmn/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Quote of the Day
+
+*"Consistency beats motivation."*
+
+⭐ If you like my work, consider following me.
+
+![Profile Views](https://komarev.com/ghpvc/?username=coder-nmn&style=for-the-badge)
+
+</div>
