@@ -9,13 +9,20 @@
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### `coder-nmn` · Full-Stack Developer · Builder by nature
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+Stack;DSA+Grinder+%7C+Building+from+Scratch;Open+Source+Contributor+%7C+GSSoC+%2725;Consistency+beats+motivation+%E2%9A%A1" alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=ECE+%40+Galgotias+%7C+MERN+Stack+Dev;DSA+Grinder+%7C+Open+Source+Contributor;Building+in+public+%E2%80%94+one+commit+at+a+time;Consistency+%3E+Motivation.+Always.)](https://git.io/typing-svg)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-dev23)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coder.nmn@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coder-nmn)
+[![Profile Views](https://komarev.com/ghpvc/?username=coder-nmn&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)](https://github.com/coder-nmn)
 
 </div>
 
 ---
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## `$ whoami`
 
@@ -26,52 +33,63 @@ const naman = {
   location    : "Delhi, India 🇮🇳",
   education   : "ECE @ Galgotias College of Engineering & Technology",
   currentFocus: ["MERN Stack", "DSA (from scratch)", "Open Source"],
-  openTo      : ["Web Dev Collabs", "College Projects", "Off-campus Opportunities"],
+  openTo      : ["Web Dev Collabs", "Off-campus Placements", "College Projects"],
   funFact     : "Consistency beats motivation — every single time ⚡"
 };
 ```
+
+<br clear="right"/>
 
 ---
 
 ## `$ ls ./skills`
 
+<div align="center">
+
 ### 🖥️ Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### ⚙️ Frontend
+### ⚡ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 🔧 Backend & DB
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### 🔧 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Tools
+### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
 
 ---
 
 ## `$ cat ./projects.md`
 
-| Project | Stack | Description |
-|--------|-------|-------------|
-| 🎭 **Moodify** | React · MediaPipe · FaceLandmarker | Real-time face expression detection using ML landmarks |
-| 🎬 **CineVerse** | React · Node.js · TMDB API | Full-stack movie discovery platform |
-| 🏠 **CorpStay** | Node · Express · MongoDB · Passport.js | Corporate housing booking platform |
-| 🛡️ **Cyberattack Detector** | CNN-BiLSTM · Streamlit · CICIDS2017 | 93.54% accuracy network intrusion detection |
-| 🅿️ **Smart Parking System** | Arduino · IR Sensors · LCD | UNO-based embedded car parking solution |
-| 📊 **Finance Dashboard** | React · Vite · Tailwind · Recharts · Zustand | Dark/light mode analytics dashboard |
+<div align="center">
+
+| 🚀 Project | ⚙️ Stack | 📝 Description | 🔗 |
+|:-----------|:---------|:---------------|:--:|
+| **🎭 Moodify** | React · MediaPipe · FaceLandmarker | Real-time face expression detection using ML landmarks | [→](#) |
+| **🎬 CineVerse** | React · Node.js · TMDB API | Full-stack movie discovery platform | [→](#) |
+| **🏢 CorpStay** | Node · Express · MongoDB · Passport.js | Corporate housing booking platform | [→](#) |
+| **🛡️ Cyberattack Detector** | CNN-BiLSTM · Streamlit · CICIDS2017 | **93.54% accuracy** network intrusion detection | [→](#) |
+| **🅿️ Smart Parking System** | Arduino · IR Sensors · LCD | UNO-based embedded car parking solution | [→](#) |
+| **📊 Finance Dashboard** | React · Vite · Tailwind · Recharts · Zustand | Dark/light mode analytics dashboard | [→](#) |
+
+</div>
 
 ---
 
@@ -79,11 +97,30 @@ const naman = {
 
 <div align="center">
 
-![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coder-nmn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=coder-nmn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nmn&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nmn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=coder-nmn&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-nmn&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-nmn&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## `$ grep -r "open_source" ./activity`
+
+<div align="center">
+
+| 🏷️ Program | 📅 Year | 🎯 Role |
+|:----------|:--------|:--------|
+| 🌱 **GSSoC** | 2025 | Girl Script Summer of Code Contributor |
+| 🏆 **OSCI** | 2025 | Open Source Contribution Initiative Participant |
+| ☁️ **Prompt Design in Vertex AI** | 2025 | Google Cloud · Completed ✅ |
 
 </div>
 
@@ -93,27 +130,7 @@ const naman = {
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=coder-nmn&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## `$ grep -r "open_source" ./activity`
-
-- 🌱 **GSSoC 2025** — Girl Script Summer of Code Contributor
-- 🔓 **OSCI 2025** — Open Source Contribution Initiative Participant
-- ☁️ **Prompt Design in Vertex AI** — Google Cloud (completed)
-
----
-
-## `$ cat ./connect.sh`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-dev23)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coder.nmn@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coder-nmn)
+[![trophy](https://github-profile-trophy.vercel.app/?username=coder-nmn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -121,12 +138,15 @@ const naman = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=coder-nmn&label=Profile+Views&color=00d9ff&style=flat)
+### `$ echo $QUOTE`
+> *"The best time to start was yesterday. The second best time is now."*
 
-```
-"The best time to start was yesterday. The second best time is now."
-```
+<br/>
 
-⚡ **Currently grinding** — MERN + DSA · Open to collabs · Building in public
+**⚡ Currently:** Building projects · Grinding DSA · Contributing to Open Source · Targeting 8–10 LPA placements
+
+<br/>
+
+![Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg)
 
 </div>
